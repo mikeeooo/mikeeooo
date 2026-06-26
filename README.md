@@ -4,7 +4,7 @@
 
 ### DevOps & Cloud Engineer
 
-*Building a strong foundation in Linux, Networking, Automation, and Cloud Infrastructure.*
+*Passionate about Linux, Automation, Cloud Infrastructure, and building reliable systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mișcoi-mike)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miscoi.mihail7@gmail.com)
@@ -13,29 +13,23 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Information Technology student at the **Technical University of Moldova** with a clear goal: becoming a Cloud & DevOps Engineer.
+I'm an Information Technology student at the **Technical University of Moldova**, focused on becoming a **DevOps & Cloud Engineer**.
 
-Rather than rushing to collect technologies, I'm focused on understanding the fundamentals that modern infrastructure is built on. I believe good engineers know **why** systems work—not just which commands to run.
-
-My current learning path is intentionally structured:
-
-**Linux → Networking → Docker → Automation → Infrastructure as Code → Kubernetes → Cloud**
-
-I'm actively building projects that will showcase practical infrastructure, automation, and deployment skills as I continue expanding my portfolio.
+I enjoy learning how systems work under the hood and building practical infrastructure through hands-on projects. My current focus is Linux, Networking, Docker, Automation, Infrastructure as Code, Kubernetes, and AWS.
 
 ---
 
-## Core Technologies
+## 🛠️ Tech Stack
 
-### Working With
+### Technologies
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python"/>
-
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,python,githubactions,terraform,ansible,kubernetes,aws"/>
 </p>
+
+**Core Skills**
 
 * Linux
 * Bash
@@ -43,74 +37,24 @@ I'm actively building projects that will showcase practical infrastructure, auto
 * Git & GitHub
 * Python
 * TCP/IP Networking
-
----
-
-### Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=githubactions,terraform,ansible,kubernetes,aws"/>
-
-</p>
-
 * GitHub Actions
 * Terraform
 * Ansible
 * Kubernetes
-* AWS
+* AWS *(learning)*
 
 ---
 
-## Current Focus
+## 🚀 Qualities
 
-✔ Strengthening Linux administration
-
-✔ Improving networking knowledge
-
-✔ Building Docker-based environments
-
-✔ Learning Infrastructure as Code
-
-✔ Developing CI/CD pipelines
-
-✔ Growing a public GitHub portfolio
+* Problem Solver
+* Fast Learner
+* Curious & Self-Motivated
+* Detail-Oriented
+* Strong Team Player
+* Infrastructure-First Mindset
+* Continuous Learner
 
 ---
-
-## Roadmap
-
-| Stage                   | Focus | Status      |
-| ----------------------- | ----- | ----------- |
-| Linux Administration    | ✅     | Complete    |
-| Networking Fundamentals | ✅     | Complete    |
-| Docker & Containers     | 🔄    | In Progress |
-| CI/CD Pipelines         | 🔄    | In Progress |
-| Terraform & Ansible     | ⏳     | Next        |
-| Kubernetes              | ⏳     | Planned     |
-| AWS Cloud               | ⏳     | Planned     |
-
----
-
-## What You Can Expect Here
-
-This GitHub is where I document my journey toward becoming a DevOps Engineer.
-
-You'll find repositories covering:
-
-* Linux automation
-* Bash scripting
-* Docker
-* Infrastructure
-* CI/CD
-* Cloud
-* Networking
-* System administration
-
-Every project is built to deepen my understanding of real-world infrastructure and engineering practices.
-
----
-
-
 
 > *"Great infrastructure isn't built by memorizing commands. It's built by understanding systems."*
