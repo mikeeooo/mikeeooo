@@ -111,15 +111,6 @@ Every project is built to deepen my understanding of real-world infrastructure a
 
 ---
 
-## Education
-
-🎓 **Technical University of Moldova**
-
-
-Information Technology
-
----
-
 
 
 > *"Great infrastructure isn't built by memorizing commands. It's built by understanding systems."*
