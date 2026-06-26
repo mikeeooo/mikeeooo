@@ -23,8 +23,6 @@ I enjoy learning how systems work under the hood and building practical infrastr
 
 ## 🛠️ Tech Stack
 
-### Technologies
-
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,python,githubactions,terraform,ansible,kubernetes,aws"/>
 </p>
