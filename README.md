@@ -120,20 +120,6 @@ Information Technology
 
 ---
 
-## Languages
 
-🇷🇴 Romanian — Native
-
-🇬🇧 English — Professional Working Proficiency
-
----
-
-## Let's Connect
-
-📧 [YOUR_EMAIL@gmail.com](mailto:miscoi.mihail7@gmail.com)
-
-💼 https://linkedin.com/in/mișcoi-mike
-
----
 
 > *"Great infrastructure isn't built by memorizing commands. It's built by understanding systems."*
