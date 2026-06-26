@@ -2,8 +2,6 @@
 
 # Hi, I'm Mihail Mișcoi 👋
 
-### DevOps & Cloud Engineer
-
 *Passionate about Linux, Automation, Cloud Infrastructure, and building reliable systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mișcoi-mike)
