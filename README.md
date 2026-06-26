@@ -2,12 +2,12 @@
 
 # Hi, I'm Mihail Mișcoi 👋
 
-### DevOps & Cloud Engineering Student
+### DevOps & Cloud Engineer
 
 *Building a strong foundation in Linux, Networking, Automation, and Cloud Infrastructure.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mișcoi-mike)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miscoi.mihail7@gmail.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Computer Science student at the **Technical University of Moldova** with a clear goal: becoming a Cloud & DevOps Engineer.
+I'm a Information Technology student at the **Technical University of Moldova** with a clear goal: becoming a Cloud & DevOps Engineer.
 
 Rather than rushing to collect technologies, I'm focused on understanding the fundamentals that modern infrastructure is built on. I believe good engineers know **why** systems work—not just which commands to run.
 
@@ -115,7 +115,8 @@ Every project is built to deepen my understanding of real-world infrastructure a
 
 🎓 **Technical University of Moldova**
 
-Computer Science
+
+Information Technology
 
 ---
 
@@ -129,9 +130,9 @@ Computer Science
 
 ## Let's Connect
 
-📧 [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+📧 [YOUR_EMAIL@gmail.com](mailto:miscoi.mihail7@gmail.com)
 
-💼 https://linkedin.com/in/YOUR_HANDLE
+💼 https://linkedin.com/in/mișcoi-mike
 
 ---
 
