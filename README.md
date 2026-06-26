@@ -2,11 +2,11 @@
   <h2>Mișcoi Mihail</h2>
   <p><em>DevOps Engineer &nbsp;·&nbsp; Infrastructure-first thinker &nbsp;·&nbsp; Future Cloud Architect</em></p>
   <br>
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="https://linkedin.com/in/mișcoi-mike">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:miscoi.mihail7@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -17,11 +17,11 @@
 
 ---
 
-I'm a CS student at the Technical University of Moldova on a deliberate path toward cloud architecture and infrastructure design.
+I'm a IT student at the Technical University of Moldova on a deliberate path toward cloud architecture and infrastructure design.
 
 My approach is fundamentals-first. I understood networking before touching cloud, containers before orchestration, Linux before automation. It's not the fastest way to collect keywords on a resume — it's the fastest way to build an engineer who knows *why* things work, not just how to run them.
 
-Currently building my public portfolio. Strong CS foundation, real Linux and Docker experience, and a clear 12-month roadmap I'm executing fast.
+Currently building my public portfolio. Strong IT foundation, real Linux and Docker experience, and a clear 12-month roadmap I'm executing fast.
 
 ---
 
