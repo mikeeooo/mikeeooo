@@ -2,8 +2,9 @@
 
 # Hi, I'm Mihail Mișcoi 👋
 
+### DevOps & Cloud Engineer
 
-Passionate about Linux, Automation, Cloud Infrastructure, and building reliable systems.*
+*Building reliable infrastructure through automation, Linux, and cloud technologies.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mișcoi-mike)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miscoi.mihail7@gmail.com)
@@ -14,9 +15,11 @@ Passionate about Linux, Automation, Cloud Infrastructure, and building reliable 
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology student at the **Technical University of Moldova**, focused on becoming a **DevOps & Cloud Engineer**.
+I'm passionate about designing, automating, and managing modern infrastructure.
 
-I enjoy learning how systems work under the hood and building practical infrastructure through hands-on projects. My current focus is Linux, Networking, Docker, Automation, Infrastructure as Code, Kubernetes, and AWS.
+My goal is to become a skilled DevOps & Cloud Engineer by building real-world projects and mastering the technologies behind scalable, reliable systems.
+
+I believe great engineers understand **how systems work**, not just how to run commands. That's why I focus on strong fundamentals while continuously improving through hands-on experience.
 
 ---
 
@@ -48,8 +51,8 @@ I enjoy learning how systems work under the hood and building practical infrastr
 * Fast Learner
 * Curious & Self-Motivated
 * Detail-Oriented
-* Strong Team Player
-* Infrastructure-First Mindset
+* Automation Mindset
+* Infrastructure-First Thinking
 * Continuous Learner
 
 ---
